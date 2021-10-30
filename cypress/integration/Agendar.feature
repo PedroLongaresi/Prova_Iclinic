@@ -11,7 +11,7 @@ Feature: Agendar consulta
     Scenario: Agendar pelo botão
         Given acesso a pagina de agendamento
         When clico no botão agendamento
-        And Preencho os campos Nome, Celular, Convenio e Data
+        And Preencho os campos Nome, Celular e Convenio 
         And clico em Salvar
         Then deve aparecer a modal confirmando o agendamento
 
@@ -19,7 +19,7 @@ Feature: Agendar consulta
     Scenario: Agendar pelo Calendario
         Given acesso a pagina de agendamento
         When clico no Calendario
-        And Preencho os campos Nome, Celular, Convenio e Data
+        And Preencho os campos Nome, Celular e Convenio
         And clico em Salvar
         Then deve aparecer a modal confirmando o agendamento
 

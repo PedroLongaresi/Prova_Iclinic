@@ -17,7 +17,7 @@ And("informo {} incorreta", (senha) => {
     loginPage.informarSenha(senha);
 })
 
-And("Preencho os campos Nome, Celular, Convenio e Data",() => {
+And("Preencho os campos Nome, Celular e Convenio",() => {
     realizarAgendamento.preencherCampos();
 })
 
