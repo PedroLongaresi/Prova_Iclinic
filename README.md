@@ -5,7 +5,7 @@
 <b>Para configurar o Ambiente:</b>
 <ol>
 <li>Instalar Node.js.</li>
-<li>Instalar as dependencias executando o seguinte comando na raíz da pasta do seu projeto: <i>npm install</i></li>
+<li>Instalar as dependencias executando o seguinte comando na raíz do projeto: <i>npm install</i></li>
 </ol>
 <b>Para iniciar os testes, execute um dos seguintes comandos no terminal:</b>
 <ul>
