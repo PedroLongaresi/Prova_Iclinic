@@ -13,3 +13,7 @@
 <li>Para executar os testes via terminal (headless com video gravado e armazenado na pasta cypres/videos): <i>npx cypress run</i></li>
 <li>Para executar os testes via script salvo em package.json: <i>npm run test:chrome</i></li>    
 </ul>
+
+
+<li> Video com uma breve explicação</li>
+https://vimeo.com/640583371
