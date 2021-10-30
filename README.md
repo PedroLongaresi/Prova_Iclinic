@@ -7,6 +7,10 @@
 <li>Instalar Node.js.</li>
 <li>Instalar as dependencias executando o seguinte comando na raíz do projeto: <i>npm install</i></li>
 </ol>
+  
+### Atenção caso seja necessario trocar o usuário, basta ir no arquivo cypress.json que esta localizado na raiz do projeto!
+  
+
 <b>Para iniciar os testes, execute um dos seguintes comandos no terminal:</b>
 <ul>
 <li>Para executar os testes utilizando o Painel de controle do Cypress: <i> npx cypress open</i></li>
