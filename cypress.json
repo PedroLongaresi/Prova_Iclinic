@@ -1,0 +1,9 @@
+{
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "defaultCommandTimeout": 7500,
+    "baseUrl": "https://app.iclinic.com.br",
+    "experimentalStudio": true,
+    "email": "pedrolongaresi@iclinic.com.br",
+    "senha": "prova123"
+}
