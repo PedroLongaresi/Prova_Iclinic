@@ -11,7 +11,7 @@
 <ul>
 <li>Para executar os testes utilizando o Painel de controle do Cypress: <i> npx cypress open</i></li>
 <li>Para executar os testes via terminal (headless com video gravado e armazenado na pasta cypres/videos): <i>npx cypress run</i></li>
-<li>Para executar os testes via script salvo em package.json: <i>npm run test:chrome</i></li>    
+<li>Para executar os testes via terminal separadamente pode executar o comando:     <i>  npm run test:um </i> ou <i> npm run test:dois </i>
 </ul>
 
 
