@@ -9,11 +9,11 @@ And("clico em Salvar", () => {
     realizarAgendamento.agendarConsulta();
 })
 
-And("informo {} incorreto", (email) => {
+And("informo {} correto", (email) => {
     loginPage.informarEmail(email);
 })
 
-And("informo {} incorreta", (senha) => {
+And("informo {} correta", (senha) => {
     loginPage.informarSenha(senha);
 })
 
