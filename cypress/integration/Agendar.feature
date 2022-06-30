@@ -2,8 +2,8 @@ Feature: Agendar consulta
 
     Background: Acessar e logar no App da Iclinic
         Given acesso a Home do site
-        And informo email incorreto
-        And informo senha incorreta
+        And informo email correto
+        And informo senha correta
         When clico no botão de realizar login
         Then devo logar no sistema
 
